@@ -1,16 +1,17 @@
 {
   "url": "https://raw.githubusercontent.com/AnneDane/tth-blocklists/main/blocklists/remote_blocklist.json",
-  "version": "1.0.13",
-  "updated_at": "2025-08-26T19:00:00Z",
+  "version": "1.0.15",
+  "updated_at": "2025-08-27T19:00:00Z",
   "description": "Curated by AnneDane",
   "tths": [
-    {"tth": "QDJ3QLGZWKAHVA6S44WKPHAGJJ7XY57X33RGQMQ", "comment": "Superman Hijo Rojo.mp4", "timestamp": "2025-08-26T17:20:00Z"},
+    {"tth": "QDJ3QLGZWKAHVA6S44WKPHAGJJ7XY57X33RGQMQ", "comment": "bogus filename", "timestamp": "2025-08-26T17:20:00Z"},
     {"tth": "IQXFFB3Q4JT2VS7VKGUILA6TQYO2AJ6CI6UF37I", "comment": "Test file", "timestamp": "2025-08-26T17:20:00Z"},
     {"tth": "KIFA6LK2X6PHJDM3KX2IMVSF7ZMWJG3BCZNXDOY", "comment": "Test file", "timestamp": "2025-08-26T17:20:00Z"},
     {"tth": "N4QLKHX3RIUJ3R73YP4BJX5F3JAQZWNWUI26FBQ", "comment": "Test file", "timestamp": "2025-08-26T17:20:00Z"},
     {"tth": "FMA6RGQFU36LHD5D7K5N6SSHOH3E3IKCUTAZ6GI", "comment": "Test file manual", "timestamp": "2025-08-26T17:20:00Z"},
     {"tth": "4SCFIV64VXW7EKCWLKDQMFLPUM2V4MXLARWFNAQ", "comment": "Test file manual", "timestamp": "2025-08-26T17:20:00Z"},
     {"tth": "DEF456789012345678901234567890123456789", "comment": "New test file", "timestamp": "2025-08-26T17:20:00Z"},
+    {"tth": "5UJDPD3ZQM2J77SYVVADT4RTKBWCGZCMWFDI2MI", "comment": "New test file", "timestamp": "2025-08-26T17:20:00Z"},
     {"tth": "QQLXG5XHDJHMUICTHKPXPOJGLNSQ66PDG6NMB6I", "comment": "Corrected test file", "timestamp": "2025-08-26T17:21:00Z"}
   ]
 }
