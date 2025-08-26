@@ -1,5 +1,7 @@
 {
   "url": "https://github.com/AnneDane/tth-blocklists/raw/main/large.json",
+  "version": "1.0.1",
+  "updated_at": "2025-08-26T14:30:00Z",
   "tths":[
 {"url": "https://github.com/AnneDane/tth-blocklists/raw/main/large.json"},
 {"tth": "CFBGIWTASQPQOB3AEF54OMZ2RYAKYREMVLT4G5Y", "comment": "Test 1"},

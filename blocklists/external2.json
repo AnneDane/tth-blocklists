@@ -1,5 +1,7 @@
 {
   "url": "https://github.com/AnneDane/tth-blocklists/raw/main/external2.json",
+  "version": "1.0.1",
+  "updated_at": "2025-08-26T14:30:00Z",
   "tths":[
   {"url": "https://github.com/AnneDane/tth-blocklists/raw/main/external2.json"},
   {"tth": "4JZ7RENEOT3MXYUZNUTJIGYJB54XUCIYYC5MTQQ", "comment": "Test file"},
