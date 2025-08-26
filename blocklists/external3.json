@@ -1,5 +1,8 @@
-[
+{
+  "url": "https://github.com/AnneDane/tth-blocklists/raw/main/external3.json",
+  "tths":[
   {"url": "https://github.com/AnneDane/tth-blocklists/raw/main/external3.json"},
   {"tth": "ITBAZNVKIJ5IRXFVK3B4IUDVIMSDANF7ONPNTHY", "comment": "Test file"},
   {"tth": "YD3OD4PHYUGG7UX3JMXULEWHPPJ4CU7PRZFZL3A", "comment": "Test file"}
 ]
+}

@@ -1,4 +1,6 @@
-[
+{
+  "url": "https://github.com/AnneDane/tth-blocklists/raw/main/external2.json",
+  "tths":[
   {"url": "https://github.com/AnneDane/tth-blocklists/raw/main/external2.json"},
   {"tth": "4JZ7RENEOT3MXYUZNUTJIGYJB54XUCIYYC5MTQQ", "comment": "Test file"},
   {"tth": "HKEPN7TXV3Q4XXQU6QMG65JPC4TNJSX3SQO66TA", "comment": "Test file"},
@@ -319,3 +321,4 @@
   {"tth": "PP623LUXAQI7PWYAMMI23JAC6HF233OUWUZRTAI", "comment": "Test file"},
   {"tth": "CGCQTM6WVU7GGTUU7GGVRAKF5J5YM63LPZ3JI7Q", "comment": "Test file"}
 ]
+}
