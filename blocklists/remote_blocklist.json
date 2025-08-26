@@ -1,14 +1,16 @@
 {
   "url": "https://raw.githubusercontent.com/AnneDane/tth-blocklists/main/blocklists/remote_blocklist.json",
-  "version": "1.0.11",
-  "updated_at": "2025-08-26T17:20:00Z",
-  "tths":[
-  {"tth": "QDJ3QLGZWKAHVA6S44WKPHAGJJ7XY57X33RGQMQ", "comment": "Superman Hijo Rojo.mp4"},
-  {"tth": "QQLXG5XHDJHMUICTHKPXPOJGLNSQ66PDG6NMB6I", "comment": "Test file"},
-  {"tth": "IQXFFB3Q4JT2VS7VKGUILA6TQYO2AJ6CI6UF37I", "comment": "Test file"},
-  {"tth": "KIFA6LK2X6PHJDM3KX2IMVSF7ZMWJG3BCZNXDOY", "comment": "Test file"},
-  {"tth": "N4QLKHX3RIUJ3R73YP4BJX5F3JAQZWNWUI26FBQ", "comment": "Test file"},
-  {"tth": "VBI6RQCJZZWY5AJABQ2NEBTPHCRRE4L2A7QA3VI", "comment": "Test file"},
-  {"tth": "FMA6RGQFU36LHD5D7K5N6SSHOH3E3IKCUTAZ6GI", "comment": "Test file manual"}
-   ]
+  "version": "1.0.12",
+  "updated_at": "2025-08-26T18:00:00Z",
+  "description": "Curated by AnneDane",
+  "tths": [
+    {"tth": "QDJ3QLGZWKAHVA6S44WKPHAGJJ7XY57X33RGQMQ", "comment": "Superman Hijo Rojo.mp4", "timestamp": "2025-08-26T17:20:00Z"},
+    {"tth": "ABCDEF2GHIJKLMNOPQRSTUVWXYZ2345672ABCDEF", "comment": "Test file", "timestamp": "2025-08-26T17:20:00Z"},
+    {"tth": "IQXFFB3Q4JT2VS7VKGUILA6TQYO2AJ6CI6UF37I", "comment": "Test file", "timestamp": "2025-08-26T17:20:00Z"},
+    {"tth": "KIFA6LK2X6PHJDM3KX2IMVSF7ZMWJG3BCZNXDOY", "comment": "Test file", "timestamp": "2025-08-26T17:20:00Z"},
+    {"tth": "N4QLKHX3RIUJ3R73YP4BJX5F3JAQZWNWUI26FBQ", "comment": "Test file", "timestamp": "2025-08-26T17:20:00Z"},
+    {"tth": "FMA6RGQFU36LHD5D7K5N6SSHOH3E3IKCUTAZ6GI", "comment": "Test file manual", "timestamp": "2025-08-26T17:20:00Z"},
+    {"tth": "DEF456789012345678901234567890123456789", "comment": "New test file", "timestamp": "2025-08-26T17:20:00Z"},
+    {"tth": "QQLXG5XHDJHMUICTHKPXPOJGLNSQ66PDG6NMB6I", "comment": "Corrected test file", "timestamp": "2025-08-26T17:21:00Z"}
+  ]
 }
