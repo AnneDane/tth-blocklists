@@ -1,8 +1,8 @@
 {
-  "url": "https://raw.githubusercontent.com/AnneDane/tth-blocklists/main/blocklists/external2.json",
-  "version": "1.0.2",
-  "updated_at": "2025-08-26T14:30:00Z",
-  "description": "External 2 test",
+  "url": "https://raw.githubusercontent.com/AnneDane/tth-blocklists/main/blocklists/suspicious_files.json",
+  "version": "1.0.3",
+  "updated_at": "2025-08-26T15:30:00Z",
+  "description": "Files and archives full of viruses",
   "tths":[
   {"url": "https://github.com/AnneDane/tth-blocklists/raw/main/external2.json"},
   {"tth": "4JZ7RENEOT3MXYUZNUTJIGYJB54XUCIYYC5MTQQ", "comment": "Test file"},
