@@ -4,7 +4,6 @@
   "updated_at": "2025-08-26T14:30:00Z",
   "description": "Large Test TTH List",
   "tths":[
-{"url": "https://github.com/AnneDane/tth-blocklists/raw/main/large.json"},
 {"tth": "KU2MGIJNIHZWCQWG2W3XABXC7QCGFV64ER3XAHY", "comment": "Test 1"},
 {"tth": "CIYOBXSRAPWWERNQFQIVTVZ3JZ4GYFO2LPISY6A", "comment": "Test 1"},
 {"tth": "LJXAAVTYD3LKVUZ3XJMR6HGMQTUCBWHRG3QZ2TY", "comment": "Test 1"},
