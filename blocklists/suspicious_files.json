@@ -4,7 +4,6 @@
   "updated_at": "2025-08-26T15:30:00Z",
   "description": "Files and archives full of viruses",
   "tths":[
-  {"url": "https://github.com/AnneDane/tth-blocklists/raw/main/external2.json"},
   {"tth": "4JZ7RENEOT3MXYUZNUTJIGYJB54XUCIYYC5MTQQ", "comment": "Test file"},
   {"tth": "DAC6ZE6WOYYWNKAEWDCMNITTMTVLBDEQFXTQN4I", "comment": "Test file"},
   {"tth": "HKEPN7TXV3Q4XXQU6QMG65JPC4TNJSX3SQO66TA", "comment": "Test file"},
